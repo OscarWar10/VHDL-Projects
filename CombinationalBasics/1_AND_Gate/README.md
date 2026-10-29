@@ -7,7 +7,10 @@ Implementación VHDL de una puerta lógica AND de 2 entradas. Incluye el código
 * **AND_Gate_tb.vhdl:** Testbench para simular el diseño y comprobar su comportamiento.
 
 ## ⚙️ Simulación y Salidas Esperadas
+
 ### 📊 Tabla de Verdad: Puerta Lógica AND
+
+<img align="right" width="600" src="../../Waveforms/AND_Gate.png">
 
 | Entrada A | Entrada B | Salida (A AND B) |
 | :---: | :---: | :---: |
@@ -16,4 +19,4 @@ Implementación VHDL de una puerta lógica AND de 2 entradas. Incluye el código
 | 1 | 0 | **0** |
 | 1 | 1 | **1** |
 
-![frff](../Waveforms/AND_Gate.png)
+<br clear="right"/>
