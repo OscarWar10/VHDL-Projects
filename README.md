@@ -8,15 +8,15 @@ La idea original viene del repositorio **VHDL-100-Projects** donde se pueden adq
 
 **Diseños combinacionales básicos**.
 
-01. AND Gate.
-02. OR Gate.
-03. NOT Gate.
-04. NAND Gate.
-05. NOR Gate.
-06. XOR Gate.
-07. XNOR Gate.
-08. Multiplexor Configurable.
-09. Demultiplexor 1 - 2.
-10. Demultiplexor 1 - 4.
-11. Decodificador 2 - 4.
-12. Decodificador 3 - 8.
+- 01. AND Gate.
+- 02. OR Gate.
+- 03. NOT Gate.
+- 04. NAND Gate.
+- 05. NOR Gate.
+- 06. XOR Gate.
+- 07. XNOR Gate.
+- 08. Multiplexor Configurable.
+- 09. Demultiplexor 1 - 2.
+- 10. Demultiplexor 1 - 4.
+- 11. Decodificador 2 - 4.
+- 12. Decodificador 3 - 8.
