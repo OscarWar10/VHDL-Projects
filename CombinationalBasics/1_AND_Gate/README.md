@@ -15,3 +15,5 @@ Implementación VHDL de una puerta lógica AND de 2 entradas. Incluye el código
 | 0 | 1 | **0** |
 | 1 | 0 | **0** |
 | 1 | 1 | **1** |
+
+![](VHDL-Projects/Waveforms/AND_Gate)
