@@ -10,7 +10,7 @@ Implementación VHDL de una puerta lógica AND de 2 entradas. Incluye el código
 
 ### 📊 Tabla de Verdad: Puerta Lógica AND
 
-<img align="right" width="600" src="../../Waveforms/AND_Gate.png">
+<img align="right" width="625" src="../../Waveforms/AND_Gate.png">
 
 | Entrada A | Entrada B | Salida (A AND B) |
 | :---: | :---: | :---: |
