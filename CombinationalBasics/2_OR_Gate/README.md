@@ -10,9 +10,9 @@ Implementación VHDL de una puerta lógica OR de 2 entradas. Incluye el código 
 
 ### 📊 Tabla de Verdad: Puerta Lógica OR
 
-<img align="right" width="650" src="../../Waveforms/OR_Gate.png">
+<img align="right" width="625" src="../../Waveforms/OR_Gate.png">
 
-| Entrada A | Entrada B | Salida (A AND B) |
+| Entrada A | Entrada B | Salida (A OR B) |
 | :---: | :---: | :---: |
 | 0 | 0 | **0** |
 | 0 | 1 | **1** |
