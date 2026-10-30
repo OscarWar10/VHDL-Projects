@@ -10,7 +10,7 @@ Implementación VHDL de un Demultiplexor 1:4. Incluye el código fuente y el tes
 
 ### 📊 Tabla de Verdad: Demultiplexor 1:4
 
-<img align="right" width="625" src="../../Waveforms/DEMUX_1_4.png">
+<img align="right" width="575" src="../../Waveforms/DEMUX_1_4.png">
 
 | SEL[1] | SEL[0] | D | Y[3] | Y[2] | Y[1] | Y[0] |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
