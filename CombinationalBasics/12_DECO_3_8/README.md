@@ -10,7 +10,7 @@ Implementación VHDL de un Decodificador 3:8. Incluye el código fuente y el tes
 
 ### 📊 Tabla de Verdad: Decodificador 3:8
 
-<img align="right" width="575" src="../../Waveforms/DECO_3_8.png">
+<img align="right" width="350" src="../../Waveforms/DECO_3_8.png">
 
 | A[2] | A[1] | A[0] | Y[7] | Y[6] | Y[5] | Y[4] | Y[3] | Y[2] | Y[1] | Y[0] |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
