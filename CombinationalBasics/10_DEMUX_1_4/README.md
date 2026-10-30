@@ -1,4 +1,4 @@
-# 🔌 DEMUX_1_2 Design
+# 🔌 DEMUX_1_4 Design
 
 Implementación VHDL de un Demultiplexor 1:4. Incluye el código fuente y el testbench para la simulación y la comprobación del diseño.
 
