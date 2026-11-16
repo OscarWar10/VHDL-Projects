@@ -9,9 +9,9 @@ La idea original viene del repositorio **VHDL-100-Projects** donde se pueden adq
 
 ---
 
-## 📂 Lista de proyectos
+## 📂 Lista De Proyectos
 
-### 🔹 Diseños combinacionales básicos
+### 🔹 Diseños Combinacionales Básicos
 
 1. [AND Gate.](./CombinationalBasics/1_AND_Gate)
 2. [OR Gate.](./CombinationalBasics/2_OR_Gate)
@@ -25,5 +25,29 @@ La idea original viene del repositorio **VHDL-100-Projects** donde se pueden adq
 10. [Demultiplexor 1 - 4.](./10.Demultiplexor%201%20-%204/)
 11. [Decodificador 2 - 4.](./11.Decodificador%202%20-%204/)
 12. [Decodificador 3 - 8.](./12.Decodificador%203%20-%208/)
+13. [Priority Encoder 8 - 3.](./13.Decodificador%203%20-%208/)
+14. [Display Driver 7 - Segment.](./14.Decodificador%203%20-%208/)
+15. [Binary To Gray - Gray To Binary.](./12.Decodificador%203%20-%208/)
+16. [4 Bit Comparator.](./14.Decodificador%203%20-%208/)
+17. [Half Adder.](./14.Decodificador%203%20-%208/)
+18. [Full Adder.](./14.Decodificador%203%20-%208/)
+19. [4 Bit Ripple Carry Adder.](./14.Decodificador%203%20-%208/)
 
 ---
+
+### 🔹 Diseños Secuenciales Básicos
+
+20. [D flip - flop.](./CombinationalBasics/1_AND_Gate)
+21. [JK flip - flop](./CombinationalBasics/1_AND_Gate)
+22. [T flip - flop.](./CombinationalBasics/1_AND_Gate)
+23. [SR flip - flop.](./CombinationalBasics/1_AND_Gate)
+24. [4 Bit Register.](./CombinationalBasics/1_AND_Gate)
+25. [8 Bit Register With Enabling Signal.](./CombinationalBasics/1_AND_Gate)
+26. [4 Bit Bidirectional Shift Register.](./CombinationalBasics/1_AND_Gate)
+27. [Serial-In Serial-Out SISO Shift Register.](./CombinationalBasics/1_AND_Gate)
+28. [Serial-In Parallel-Out SIPO Shift Register.](./CombinationalBasics/1_AND_Gate)
+29. [Parallel-In Serial-Out PISO Shift Register.](./CombinationalBasics/1_AND_Gate)
+30. [4 Bit Up/Down Counter.](./CombinationalBasics/1_AND_Gate)
+31. [BCD Counter.](./CombinationalBasics/1_AND_Gate)
+32. [Ring Counter.](./CombinationalBasics/1_AND_Gate)
+33. [Johnson Counter.](./CombinationalBasics/1_AND_Gate)
