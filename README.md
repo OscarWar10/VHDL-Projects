@@ -65,7 +65,7 @@ La idea original viene del repositorio **VHDL-100-Projects** donde se pueden adq
 
 36. [4 Bit Barrel Shifter.](./CombinationalBasics/1_AND_Gate)
 37. [8 Bit Barrel Shifter.](./CombinationalBasics/1_AND_Gate)
-38. [4 Bit ALU (Arithmetic Logic Unit.](./CombinationalBasics/1_AND_Gate)
+38. [4 Bit ALU (Arithmetic Logic Unit).](./CombinationalBasics/1_AND_Gate)
 39. [Parity Generator.](./CombinationalBasics/1_AND_Gate)
 40. [Parity Checker.](./CombinationalBasics/1_AND_Gate)
 41. ['1's Counter.](./CombinationalBasics/1_AND_Gate)
