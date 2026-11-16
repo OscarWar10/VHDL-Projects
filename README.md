@@ -51,3 +51,32 @@ La idea original viene del repositorio **VHDL-100-Projects** donde se pueden adq
 31. [BCD Counter.](./CombinationalBasics/1_AND_Gate)
 32. [Ring Counter.](./CombinationalBasics/1_AND_Gate)
 33. [Johnson Counter.](./CombinationalBasics/1_AND_Gate)
+
+---
+
+### 🔹 Elementos de Memoria
+
+34. [8x4 ROM (Read Only Memory).](./CombinationalBasics/1_AND_Gate)
+35. [8x4 RAM (Random Access Memory).](./CombinationalBasics/1_AND_Gate)
+
+---
+
+### 🔹 Diseños Combinacionales Complejos
+
+36. [4 Bit Barrel Shifter.](./CombinationalBasics/1_AND_Gate)
+37. [8 Bit Barrel Shifter.](./CombinationalBasics/1_AND_Gate)
+38. [4 Bit ALU (Arithmetic Logic Unit.](./CombinationalBasics/1_AND_Gate)
+39. [Parity Generator.](./CombinationalBasics/1_AND_Gate)
+40. [Parity Checker.](./CombinationalBasics/1_AND_Gate)
+41. ['1's Counter.](./CombinationalBasics/1_AND_Gate)
+42. [Priority Multiplexer.](./CombinationalBasics/1_AND_Gate)
+
+---
+
+### 🔹 Máquinas de Estados
+
+43. [Traffic Light Controller (3 Lights).](./CombinationalBasics/1_AND_Gate)
+44. [Pedestrian Traffic Light Controller.](./CombinationalBasics/1_AND_Gate)
+45. [Elevator Controller (2 Floors).](./CombinationalBasics/1_AND_Gate)
+
+
