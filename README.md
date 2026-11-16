@@ -13,8 +13,8 @@ La idea original viene del repositorio **VHDL-100-Projects** donde se pueden adq
 
 ### 🔹 Diseños Combinacionales Básicos
 
-1. [AND Gate.](./CombinationalBasics/1_AND_Gate)
-2. [OR Gate.](./CombinationalBasics/2_OR_Gate)
+1. [AND Gate.](./CombinationalBasics/01_AND_Gate)
+2. [OR Gate.](./CombinationalBasics/02_OR_Gate)
 3. [NOT Gate.](./03.NOT%20Gate/)
 4. [NAND Gate.](./04.NAND%20Gate/)
 5. [NOR Gate.](./05.NOR%20Gate/)
