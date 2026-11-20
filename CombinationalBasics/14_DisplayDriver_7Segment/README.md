@@ -8,15 +8,13 @@ Implementación VHDL de Seven Segment Display. Incluye el código fuente y el te
 
 ## ⚙️ Mapeo de Segmentos (Cátodo común)
 
-<img align="left" width="495" src="../../CombinationalBasics/14_DisplayDriver_7Segment/SegmentsMapping.png">
+<img width="495" src="../../CombinationalBasics/14_DisplayDriver_7Segment/SegmentsMapping.png">
 
 ## ⚙️ Simulación y Salidas Esperadas
 
 El diseño muestra cada uno de los dígitos del 0 - 9 cuyo cambio se produce cada cada 2 ns.
 
-## 📊 Casos de Prueba: Codificador 8:3 con prioridad.
-
-<img align="right" width="495" src="../../Waveforms/PriENCODER_8_3.png">
+### 📊 Casos de Prueba: Display 7 Segmentos.
 
 | Decimal | A | Y | Segments (a-g) |
 | :---: | :---: | :---: | :---: |
@@ -31,4 +29,5 @@ El diseño muestra cada uno de los dígitos del 0 - 9 cuyo cambio se produce cad
 | 8 | 1000 | 1111111 | a-b-c-d-e-f-g |
 | 9 | 1001 | 1111011 | a-b-c-d-f-g |
 
-<br clear="right"/>
+<img width="495" src="../../Waveforms/PriENCODER_8_3.png">
+
