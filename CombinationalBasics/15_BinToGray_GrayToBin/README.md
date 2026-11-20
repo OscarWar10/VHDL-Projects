@@ -2,6 +2,7 @@
 
 Implementación VHDL de BinToGray_GrayToBib. Se trata de un módulo configurable que convierte un dato Binario en Gray o viceversa. El tipo de conversión lo determina el puerto SEL (SEL = '0' --> Binary To Gray; SEL = '1' --> 
 Gray To Binary). El tamaño del dato a convertir viene dado por el genérico N.
+
 Incluye el código fuente y el testbench para la simulación y la comprobación del diseño.
 
 ## 📂 Ficheros Principales
