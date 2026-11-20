@@ -37,20 +37,20 @@ La idea original viene del repositorio **VHDL-100-Projects** donde se pueden adq
 
 ### 🔹 Diseños Secuenciales Básicos
 
-20. [D flip - flop.](./CombinationalBasics/1_AND_Gate)
-21. [JK flip - flop](./CombinationalBasics/1_AND_Gate)
-22. [T flip - flop.](./CombinationalBasics/1_AND_Gate)
-23. [SR flip - flop.](./CombinationalBasics/1_AND_Gate)
-24. [4 Bit Register.](./CombinationalBasics/1_AND_Gate)
-25. [8 Bit Register With Enabling Signal.](./CombinationalBasics/1_AND_Gate)
-26. [4 Bit Bidirectional Shift Register.](./CombinationalBasics/1_AND_Gate)
-27. [Serial-In Serial-Out SISO Shift Register.](./CombinationalBasics/1_AND_Gate)
-28. [Serial-In Parallel-Out SIPO Shift Register.](./CombinationalBasics/1_AND_Gate)
-29. [Parallel-In Serial-Out PISO Shift Register.](./CombinationalBasics/1_AND_Gate)
-30. [4 Bit Up/Down Counter.](./CombinationalBasics/1_AND_Gate)
-31. [BCD Counter.](./CombinationalBasics/1_AND_Gate)
-32. [Ring Counter.](./CombinationalBasics/1_AND_Gate)
-33. [Johnson Counter.](./CombinationalBasics/1_AND_Gate)
+20. [D flip - flop.](./SequentialBasics/20_DFlipFlop)
+21. [JK flip - flop](./SequentialBasics/21_JKFlipFlop)
+22. [T flip - flop.](./SequentialBasics/22_TFlipFlop)
+23. [SR flip - flop.](./SequentialBasics/23_SRFlipFlop)
+24. [4 Bit Register.](./SequentialBasics/24_4BitRegister)
+25. [8 Bit Register With Enabling Signal.](./SequentialBasics/25_8BitRegister_EnablingSignal)
+26. [4 Bit Bidirectional Shift Register.](./SequentialBasics/26_4Bit_BidirectionalShiftRegister)
+27. [Serial-In Serial-Out SISO Shift Register.](./SequentialBasics/27_SISO_ShiftRegister)
+28. [Serial-In Parallel-Out SIPO Shift Register.](./SequentialBasics/28_SIPO_ShiftRegister)
+29. [Parallel-In Serial-Out PISO Shift Register.](./SequentialBasics/29_PISO_ShiftRegister)
+30. [4 Bit Up/Down Counter.](./SequentialBasics/30_4Bit_Up_Down_Counter)
+31. [BCD Counter.](./SequentialBasics/31_BCDCounter)
+32. [Ring Counter.](./SequentialBasics/32_RingCounter)
+33. [Johnson Counter.](./SequentialBasics/33_JohnsonCounter)
 
 ---
 
