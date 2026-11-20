@@ -12,7 +12,7 @@ Implementación VHDL de Seven Segment Display. Incluye el código fuente y el te
 
 ## ⚙️ Simulación y Salidas Esperadas
 
-El diseño muestra cada uno de los dígitos del 0 - 9 cuyo cambio se produce cada cada 2 ns.
+El diseño muestra cada uno de los dígitos del 0 - 9 cuyo cambio se produce cada cada 2 ns. Nótese que el puerto de salida Y[6:0] corresponde a cada uno de los segmentos ([6:0] --> g-f-e-d-c-b-a) del display y su activación se produce con un nivel alto al tratarse de un display de catodo común.
 
 ### 📊 Casos de Prueba: Display 7 Segmentos.
 
@@ -29,5 +29,7 @@ El diseño muestra cada uno de los dígitos del 0 - 9 cuyo cambio se produce cad
 | 8 | 1000 | 1111111 | a-b-c-d-e-f-g |
 | 9 | 1001 | 1111011 | a-b-c-d-f-g |
 
-<img width="495" src="../../Waveforms/PriENCODER_8_3.png">
+### 📊 Formas de Onda.
+
+<img width="700" src="../../Waveforms/SevenSegmentDisplay.png">
 
