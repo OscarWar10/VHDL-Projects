@@ -10,7 +10,6 @@ Incluye el código fuente y el testbench para la simulación y la comprobación 
 * **Comparator4Bit_tb.vhdl:** Testbench para simular el diseño y comprobar su comportamiento.
 
 ## ⚙️ Simulación y Salidas Esperadas
-La misma tabla muestra la conversión de Binario a Gray y de Gray a Binario.
 
 ### 📊 Comportamiento: Comparador 4 Bits.
   
